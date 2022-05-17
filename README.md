@@ -7,6 +7,8 @@
 # 💻 Projeto
    
     Projeto de website ecommerce responsivo feito com o intuito de aprimorar o conhecimento em JavaScript
+   
+   Você pode visualizar o projeto finalizado nesse link: https://rafaeelprado.github.io/rshop-ecommerce/
 
 # 🔖 Recursos utilizados
 
