@@ -52,50 +52,50 @@ let products = [
         name: 'MOCHILA NIKE GTK',
         image1: './images/Mochila_Nike_GTK.png',
         image2: './images/2IC-3604-026_zoom3.png',
-        old_price: '400',
-        curr_price: '300'
+        old_price: 'R$400',
+        curr_price: 'R$300'
     },
     {
         name: 'CHINELO SLIDE NIKE VICTORI',
         image1: './images/Chinelo_Slide_Nike_Victori_.png',
         image2: './images/HZM-5127-532_zoom2.png',
-        old_price: '400',
-        curr_price: '300'
+        old_price: 'R$400',
+        curr_price: 'R$300'
     },
     {
         name: 'MOCHILA NIKE GTK',
         image1: './images/Mochila_Nike_Classic.png',
         image2: './images/2IC-3604-862_zoom3.png',
-        old_price: '400',
-        curr_price: '300'
+        old_price: 'R$400',
+        curr_price: 'R$300'
     },
     {
         name: 'CHUTEIRA NIKE PHANTOM',
         image1: './images/Chuteira_Nike_Phantom.png',
         image2: './images/004-5830-042_zoom2.png',
-        old_price: '400',
-        curr_price: '300'
+        old_price: 'R$400',
+        curr_price: 'R$300'
     },
     {
         name: 'MEIA STRIKE NIKE CANO ALTO',
         image1: './images/Meia_Cano_Alto_Nike_Strike.png',
         image2: './images/2IC-7546-026_zoom2.png',
-        old_price: '400',
-        curr_price: '300'
+        old_price: 'R$R$400',
+        curr_price: 'R$R$300'
     },
     {
         name: 'MALA NIKE BRASILIA',
         image1: './images/Mala_Nike_Brasilia.png',
         image2: './images/2IC-5665-026_zoom2.png',
-        old_price: '400',
-        curr_price: '300'
+        old_price: 'R$400',
+        curr_price: 'R$300'
     },
     {
         name: 'SQUEEZE NIKE HIDRO FLOW',
         image1: './images/Squeeze_Nike_Hidro_Flow.png',
         image2: './images/5MS-0075-006_zoom2.png',
-        old_price: '400',
-        curr_price: '300'
+        old_price: 'R$400',
+        curr_price: 'R$300'
     },
 ]
 
