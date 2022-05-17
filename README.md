@@ -1,4 +1,6 @@
-# Website Ecommerce Responsivo utilizando HTML CSS e JAVASCRIPT      
+# Website Ecommerce Responsivo utilizando HTML CSS e JAVASCRIPT    
+
+![rShoppreview](https://user-images.githubusercontent.com/29392805/168713651-1ba05e6c-147e-4548-aedc-372fbfde6a12.gif)
 
 # 🚀 Tecnologias utilizadas
 
