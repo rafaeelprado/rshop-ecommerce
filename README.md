@@ -1,11 +1,16 @@
-# Website Ecommerce Responsivo utilizando HTML CSS e JAVASCRIPT    
+# Website Ecommerce Responsivo 
 
 ![rShoppreview](https://user-images.githubusercontent.com/29392805/168713651-1ba05e6c-147e-4548-aedc-372fbfde6a12.gif)
 
+<p align="center">
+  <a href="https://forthebadge.com"> <img src="https://forthebadge.com/images/badges/uses-html.svg" /> </a>
+  <a href="https://forthebadge.com"> <img src="https://forthebadge.com/images/badges/uses-css.svg" /> </a>
+  <a href="https://forthebadge.com"> <img src="https://forthebadge.com/images/badges/uses-js.svg" /> </a>
+</p>
 
 ## :scroll: Sobre
    
-    Projeto de website ecommerce responsivo feito com o intuito de aprimorar o conhecimento em JavaScript
+   Projeto de website ecommerce responsivo feito com o intuito de aprimorar o conhecimento em JavaScript
    
    Você pode visualizar o projeto nesse link: https://rafaeelprado.github.io/rshop-ecommerce/
    
