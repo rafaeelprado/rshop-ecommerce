@@ -2,21 +2,24 @@
 
 ![rShoppreview](https://user-images.githubusercontent.com/29392805/168713651-1ba05e6c-147e-4548-aedc-372fbfde6a12.gif)
 
-# 🚀 Tecnologias utilizadas
+## :rocket: Tecnologias utilizadas
 
-    Criação de site ecommerce responsivo moderno utilizando HTML, CSS e JAVASCRIPT 
+- HTML
+- CSS
+- JAVASCRIPT 
 
-# 💻 Projeto
+
+## 💻 Projeto
    
     Projeto de website ecommerce responsivo feito com o intuito de aprimorar o conhecimento em JavaScript
    
-   Você pode visualizar o projeto finalizado nesse link: https://rafaeelprado.github.io/rshop-ecommerce/
+   Você pode visualizar o projeto nesse link: https://rafaeelprado.github.io/rshop-ecommerce/
 
-# 🔖 Recursos utilizados
+## 🔖 Recursos utilizados
 
-    Google font: https://fonts.google.com/
+  <a href="https://fonts.google.com/">Google fonts<a/>
 
-    Boxicons: https://boxicons.com/
+  <a href="https://boxicons.com/">Boxicons<a/>
 
 # Preview
 
